@@ -1,0 +1,181 @@
+*{
+    box-sizing: border-box;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+    padding: 0 10px;
+}
+
+aside{
+    width: 35%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 20px;
+}
+
+.info{
+    width: 64.5%;
+    display: inline-block;
+}
+
+.photo{
+    text-align: center;
+    position: relative;
+}
+
+.photo img {
+    width:100%;
+}
+
+.contact-heading{
+    background-color: rgba(3, 157, 193, 0.5);
+    width: 100%;
+    font-size: 2rem;
+    text-transform: uppercase;
+    text-align: center;
+    color: #ffffff;
+    position: absolute;
+    bottom: 0;
+    border-bottom: 2px solid #039DC1;
+}
+
+.contact{
+    background-color: #039DC1;
+    color: #ffffff;
+    font-size: 1.2rem;
+    padding: 10px;
+}
+
+.contact span {
+    text-transform: uppercase;
+    display: inline-block;
+    width: 30%;
+}
+
+.link-examples{
+    padding: 5px 10px;
+}
+
+.gray-heading{
+    background-color: #504F54;
+    color: #ffffff;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    padding: 15px;
+    letter-spacing: 0.2rem;
+}
+
+.articles{
+    background-color: #D0D0D2;
+}
+
+.bolding{
+    font-weight: bold;
+}
+
+.skills p{
+    padding: 5px 10px;
+}
+
+h1{
+    font-size: 4rem;
+    font-weight: bold;
+    padding: 20px; 
+    text-align: center;
+    color: #535355;
+    text-transform: uppercase;
+}
+
+.summary{
+    font-style: italic;
+    font-size: 1.1rem;
+    padding: 10px 0;
+    line-height: 1.2rem;
+    text-align: justify;
+}
+
+.about-me-heading{
+    font-weight: bold;
+    font-size: 1.1rem;
+    padding: 10px 0;
+}
+
+.description{
+    font-weight: bold;
+    font-size: 0.9rem;
+    padding: 10px 0;
+}
+
+.date{
+    font-style: italic;
+    padding: 10px 0;
+}
+
+.about-me section{
+    padding-bottom: 10px;
+    border-bottom: 1px solid #504F54;
+}
+
+.about-me p{
+    margin-bottom: 10px;
+    text-align: justify;
+    line-height: 1.2rem;
+}
+
+a{
+    color: #039DC1;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.about-me li{
+    background-color: #D0D0D2;
+    border: 1px solid #504F54;
+    margin: 5px 5px 5px 0;
+    padding: 5px 10px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+@media screen and (max-width: 920px){
+    aside{
+        width: 40%;
+    }
+    .info{
+        width: 59.5%;
+    }
+}
+
+@media screen and  (max-width: 800px){
+    aside{
+        width: 50%;
+    }
+    .info{
+        width: 49.5%;
+    }
+    .info h1{
+        font-size: 2.5rem;
+    }
+}
+
+@media screen and  (max-width: 650px){
+    aside{
+        width: 100%;
+        padding: 0;
+    }
+    .info{
+        width: 100%;
+    }
+    .info h1{
+        font-size: 3.5rem;
+    }
+}
