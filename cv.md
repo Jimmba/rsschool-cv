@@ -19,12 +19,12 @@ I'm looking for my first job as a developer. I spend my free time on self-develo
 **OS:** Windows XP, Windows 7, Windows 8, Windows 10, Windows Server 2012 R2  
 **Virtual Mashines:** Oracle VirtualBox, VMware Workstation, VMware vSphere Hypervisor  
  
-**[Code Examples]**(https://github.com/Jimmba/traitek)  
+**[Code Examples](https://github.com/Jimmba/traitek)**  
  
 ### Experience:  
 #### [Technonicol](https://tstn.by/)  
 **Logistician**  
-_March 2016 - April 2019_  
+_Mar 2016 - Apr 2019_  
  
 + Provision of warehouses with building materials  
  
@@ -39,7 +39,7 @@ _Dec 2014 - Mar 2016_
 _Oct 2010 - Jul Now 2014_  
 + Created the infrastructure for a chain of shops - organized a virtual network between the shops of the enterprise, created a single database of accounting for auto parts. Put the goods on record. For some time (due to the temporary absence of the seller) I was engaged in the retail sale of auto parts, and I ordered the missing goods. For the same organization I wrote a business card website [traitek.by](http://traitek.by). A new version of the site is now released, where I participated in the development as a backend.  
  
-#### Inspectorate of the Ministry of Taxes and Duties of the Republic of Belarus in the Postavy District  
+#### [Inspectorate of the Ministry of Taxes and Duties of the Republic of Belarus in the Postavy District](http://www.nalog.gov.by/ru/postavy/)  
 **Main State Tax Inspector**  
 _Aug 2007 - Oct 2010_  
 + Control over the correctness of the calculation and withholding of income tax by organizations, the calculation of land tax and real estate tax for individuals, the monitoring of the activities of individual entrepreneurs (the correctness of accounting, charging and paying taxes). Reporting. Due to the large amount of information processed, he became interested in programming in the Microsoft Office environment. He wrote macros for Excel in order to process large tables and generate reports.  
@@ -69,8 +69,8 @@ _Sep 2017 - Now 2017_
 _Sep 2002 - Jun 2007_  
 + accountant-economist  
  
-#### English:  
-**[Streamline](https://str.by/)**  
+### English:  
+#### [Streamline](https://str.by/)  
 _Sep 2019 - now..._  
 
 + current level: A2  
