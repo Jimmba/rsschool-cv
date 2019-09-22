@@ -19,7 +19,8 @@ I'm looking for my first job as a developer. I spend my free time on self-develo
 **OS:** Windows XP, Windows 7, Windows 8, Windows 10, Windows Server 2012 R2  
 **Virtual Mashines:** Oracle VirtualBox, VMware Workstation, VMware vSphere Hypervisor  
  
-**[Code Examples](https://github.com/Jimmba/traitek)**  
+### Code Examples:  
+**[GitHub Repository](https://github.com/Jimmba/traitek)**  
  
 ### Experience:  
 #### [Technonicol](https://tstn.by/)  
