@@ -1,1 +1,1 @@
-# rsschool-cv
+[MyCV](https://jimmba.github.io/rsschool-cv/cv)
