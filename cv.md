@@ -37,7 +37,7 @@ _Dec 2014 - Mar 2016_
 #### [PostTraiTek](https://traitek.by/)  
 **System administrator**  
 _Oct 2010 - Jul Now 2014_  
-+ Created the infrastructure for a chain of shops - organized a virtual network between the shops of the enterprise, created a single database of accounting for auto parts. Put the goods on record. For some time (due to the temporary absence of the seller) I was engaged in the retail sale of auto parts, and I ordered the missing goods. For the same organization I wrote a business card website (http://traitek.by). A new version of the site is now released, where I participated in the development as a backend.  
++ Created the infrastructure for a chain of shops - organized a virtual network between the shops of the enterprise, created a single database of accounting for auto parts. Put the goods on record. For some time (due to the temporary absence of the seller) I was engaged in the retail sale of auto parts, and I ordered the missing goods. For the same organization I wrote a business card website [traitek.by](http://traitek.by). A new version of the site is now released, where I participated in the development as a backend.  
  
 #### Inspectorate of the Ministry of Taxes and Duties of the Republic of Belarus in the Postavy District  
 **Main State Tax Inspector**  
