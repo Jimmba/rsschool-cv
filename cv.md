@@ -46,6 +46,20 @@ _Aug 2007 - Oct 2010_
 + Control over the correctness of the calculation and withholding of income tax by organizations, the calculation of land tax and real estate tax for individuals, the monitoring of the activities of individual entrepreneurs (the correctness of accounting, charging and paying taxes). Reporting. Due to the large amount of information processed, he became interested in programming in the Microsoft Office environment. He wrote macros for Excel in order to process large tables and generate reports.  
  
 ### Education:  
+
+#### [RS School](https://rs.school//):  
+**PHP Developer**  
+_Sep 2019 - Now_  
+ 
+Creating web-applications with the heps of the following technologies:  
+ 
+- HTML  
+- CSS  
+- Javascript  
+- GitHub  
+- Webpack  
+- RxJS  
+
 #### [IT Academy](https://www.it-academy.by/):  
 **PHP Developer**  
 _Now 2017 - Feb 2018_  
@@ -72,6 +86,6 @@ _Sep 2002 - Jun 2007_
  
 ### English:  
 #### [Streamline](https://str.by/)  
-_Sep 2019 - now..._  
+_Sep 2019 - Dec 2019_  
 
-+ current level: A2  
++ current level: A2+  
